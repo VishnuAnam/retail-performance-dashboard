@@ -109,6 +109,6 @@ The dataset contains retail transaction data including:
 👤 Author
 
 Vishnu A Nambiar
-Linkedin:
+
 
 
